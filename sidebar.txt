@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nka:home|Door43 (nka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nka|d43-nka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nka/archive/master.zip|d43-nka.zip]]
+
+**Recent Changes**
+{{changes>ns = nka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nka|Ethnologue data]]
+
